@@ -1,5 +1,5 @@
 body{
-    background-color: #16E2F2;
+    background-color: #DE6DED;
 }
 
 .header{
@@ -53,21 +53,47 @@ body{
     width: 100%;
     max-width: 200px;
     border-radius: 50%;
-    border: 7px solid #3316F2;
+    border: 7px solid #712E9E;
 }
 
 .perfil_name{
     font-family: 'Pacifico', cursive;
-    color: #3316F2;
+    color: #712E9E;
     font-size: 52px;
 }
 
  #pefil_description{
     font-family: 'Barlow Condensed', sans-serif;
     font-size: 20px;
-    color:#3316F2;
+    color:#712E9E;
     font-weight: 900;
     max-width: 900px;
     text-align: center;
+
+}
+
+section{
+    padding: 8px;
+    width: 100%;
+    max-width: 350px;
+    margin: 24px auto;
+}
+
+.curso{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20px;
+    color:#712E9E;
+}
+
+ h2{
+    font-weight: 900;
+    color: #712E9E;
+    
+}
+
+.nome_curso{
+
+    color:#712E9E;
+    font-weight: 900;
 
 }
