@@ -57,13 +57,13 @@ body{
 }
 
 .perfil_name{
-    font-family: 'Pacifico', cursive;
+     font-family: 'Dancing Script', cursive;
     color: #712E9E;
     font-size: 52px;
 }
 
  #pefil_description{
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
     color:#712E9E;
     font-weight: 900;
@@ -77,13 +77,13 @@ section{
     width: 100%;
     max-width: 900px;
     margin: 24px auto;
-    background-color: #A963FF;
+    background-color:#6B009C;
 }
 
 .curso{
-    font-family: 'Barlow Condensed', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 20px;
-    color:#712E9E;
+    color:#A91EE8;
     padding: 8px;
     margin: 16px 0;
     box-sizing: border-box;
@@ -92,13 +92,13 @@ section{
 
  h2{
     font-weight: 900;
-    color: #712E9E;
+    color: #A91EE8;
     
 }
 
 .nome_curso{
 
-    color:#712E9E;
+    color:#A91EE8;
     font-weight: 900;
     margin: 16px 0;
 
