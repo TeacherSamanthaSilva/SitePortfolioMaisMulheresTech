@@ -1,5 +1,5 @@
 body{
-    background-color: #DE6DED;
+    background-color: #B086E3;
 }
 
 .header{
@@ -75,14 +75,19 @@ body{
 section{
     padding: 8px;
     width: 100%;
-    max-width: 350px;
+    max-width: 900px;
     margin: 24px auto;
+    background-color: #A963FF;
 }
 
 .curso{
     font-family: 'Barlow Condensed', sans-serif;
     font-size: 20px;
     color:#712E9E;
+    padding: 8px;
+    margin: 16px 0;
+    box-sizing: border-box;
+    
 }
 
  h2{
@@ -95,5 +100,6 @@ section{
 
     color:#712E9E;
     font-weight: 900;
+    margin: 16px 0;
 
 }
