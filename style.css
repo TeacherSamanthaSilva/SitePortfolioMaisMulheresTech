@@ -1,5 +1,10 @@
 body{
-    background-color: #B086E3;
+    background-color: #DB3D89;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
 }
 
 .header{
@@ -53,19 +58,19 @@ body{
     width: 100%;
     max-width: 200px;
     border-radius: 50%;
-    border: 7px solid #712E9E;
+    border: 7px solid #8F2156;
 }
 
 .perfil_name{
      font-family: 'Dancing Script', cursive;
-    color: #712E9E;
+    color: #8F2156;
     font-size: 52px;
 }
 
  #pefil_description{
     font-family: 'Open Sans', sans-serif;
     font-size: 20px;
-    color:#712E9E;
+    color:#8F2156;
     font-weight: 900;
     max-width: 900px;
     text-align: center;
@@ -77,13 +82,14 @@ section{
     width: 100%;
     max-width: 900px;
     margin: 24px auto;
-    background-color:#6B009C;
+    background-color:#8F2156;
+    box-sizing: border-box;
 }
 
 .curso{
     font-family: 'Open Sans', sans-serif;
     font-size: 20px;
-    color:#A91EE8;
+    color:#DB3D89;
     padding: 8px;
     margin: 16px 0;
     box-sizing: border-box;
@@ -92,24 +98,25 @@ section{
 
  h2{
     font-weight: 900;
-    color: #A91EE8;
+    color: #DB3D89;
     font-family: 'Open Sans', sans-serif;
     
 }
 
 .nome_curso{
 
-    color:#A91EE8;
+    color:#DB3D89;
     font-weight: 900;
     margin: 16px 0;
 
 }
 
 footer{
-    color: #CC2DFA;
+    color:#8F2156;
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     padding: 20px;
     text-align: center;
     font-weight: 700;
+    flex-shrink: 0;
 }
