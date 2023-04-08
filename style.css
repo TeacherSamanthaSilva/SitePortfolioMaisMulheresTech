@@ -1,5 +1,5 @@
 body{
-    background-color: #313131;
+    background-color: #16E2F2;
 }
 
 .header{
@@ -53,20 +53,20 @@ body{
     width: 100%;
     max-width: 200px;
     border-radius: 50%;
-    border: 7px solid #94408a;
+    border: 7px solid #3316F2;
 }
 
 .perfil_name{
     font-family: 'Pacifico', cursive;
-    color: #94408a;
+    color: #3316F2;
     font-size: 52px;
 }
 
  #pefil_description{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Barlow Condensed', sans-serif;
     font-size: 20px;
-    color: #fff;
-    font-weight: 400;
+    color:#3316F2;
+    font-weight: 900;
     max-width: 900px;
     text-align: center;
 
